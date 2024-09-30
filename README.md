@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+Hi 👋, I'm Kapil
+
 🔭 I’m currently working on Full Stack Projects<br>👯 I’m looking to collaborate on MERN Stack Projects<br>🤝 I’m looking for help with web technology<br>🌱 I’m currently learning Full Stack Web Development<br>💬 Ask me about web tech<br>
 
 
