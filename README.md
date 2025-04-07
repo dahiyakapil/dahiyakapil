@@ -2,7 +2,11 @@
 
 Hi 👋, I'm Kapil
 
-🔭 I’m currently working on Full Stack Projects<br>👯 I’m looking to collaborate on MERN Stack Projects<br>🤝 I’m looking for help with web technology<br>🌱 I’m currently learning Full Stack Web Development<br>💬 Ask me about web tech<br>
+🚀 Full Stack Web Developer (MERN Stack)
+🔭 Currently working on Full Stack Projects
+🤝 Open to collaboration on MERN Stack applications
+🌱 Continuously learning and building web solutions
+💬 Ask me anything about Web Development <br>
 
 
 ## 🌐 Socials:
