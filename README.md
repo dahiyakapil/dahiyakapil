@@ -1,12 +1,6 @@
 # 💫 About Me:
 
-Hi 👋, I'm Kapil
-
-🚀 Full Stack Web Developer (MERN Stack)
-🔭 Currently working on Full Stack Projects
-🤝 Open to collaboration on MERN Stack applications
-🌱 Continuously learning and building web solutions
-💬 Ask me anything about Web Development <br>
+Hi 👋, I'm Kapil, a MERN Stack Developer, building full stack projects, open to collaboration, and always learning web technologies. <br>
 
 
 ## 🌐 Socials:
