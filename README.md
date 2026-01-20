@@ -1,5 +1,3 @@
-# 💫 About Me:
-
 # Hi, I’m Kapil Dahiya 👋  
 **Full Stack Developer | MERN Stack | React & Node.js**
 
