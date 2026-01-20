@@ -31,4 +31,9 @@ I’ve worked on full-time internship projects where I handled **frontend, backe
 ---
 [![](https://visitcount.itsvg.in/api?id=dahiyakapil&icon=0&color=1)](https://visitcount.itsvg.in)
 
+
+## 📫 Let’s Connect
+- 🌐 Portfolio: https://kapilz.vercel.app/
+- 💼 LinkedIn: https://linkedin.com/in/kapildahiya21
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
