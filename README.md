@@ -1,10 +1,11 @@
 # 💫 About Me:
 
-## Full Stack Developer 
+# Hi, I’m Kapil Dahiya 👋  
+**Full Stack Developer | MERN Stack | React & Node.js**
 
-I am a Full Stack Developer specializing in React and Node.js, with hands-on experience building real-world applications such as dashboards, booking systems, and AI-powered tools.
+I’m a Full Stack Developer with hands-on experience building **real-world, production-ready web applications** using the MERN stack. I focus on **clean code, scalable APIs, and performance-oriented UI development**.
 
-I focus on clean UI, scalable backend APIs, and production-ready code. Recently, I worked on full-time internship projects where I handled frontend, backend, and deployment workflows.
+I’ve worked on full-time internship projects where I handled **frontend, backend, database design, and deployments**, closely following industry workflows.
 
 
 # 💻 Tech Stack:
